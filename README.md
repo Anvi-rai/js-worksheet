@@ -1,1 +1,43 @@
 # js-worksheet
+weather App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            display: inline-block; 
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+         background-color: rgb(59, 210, 252); 
+        height: 100vh; 
+        }
+        div{
+            display: inline-block;
+            height: 251px;
+            width: 301px;
+            background-color: aliceblue;
+            border-radius: 11px;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+        }
+        img{
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+         <input/>
+        <button>click</button> 
+        <!-- <img   height="400px"/> -->
+        <h2>  </h2>
+        <p> </p>
+  
+    </div>
+    <script   src="index.js"></script>
+</body>
+</html>
